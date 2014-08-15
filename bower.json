@@ -1,0 +1,24 @@
+{
+  "name": "webcamjs-bower",
+  "version": "1.0.0",
+  "homepage": "https://github.com/bramski/webcamjs",
+  "authors": [
+    "bramski <bramski@gmail.com>"
+  ],
+  "description": "Webcam javascript service",
+  "main": "webcam.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "webcam"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
